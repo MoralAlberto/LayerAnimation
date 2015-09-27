@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  LayerAnimation
 //
-//  Created by Diana on 27/9/15.
+//  Created by Alberto Moral on 27/9/15.
 //  Copyright © 2015 Moral. All rights reserved.
 //
 
